@@ -1,0 +1,13 @@
+.root{
+    color:red;
+    -fx-background-color: black;
+}
+.equalButton{
+    -fx-background-color: yellow;
+}
+.clearButton{
+    -fx-background-color: red;
+}
+.backSpaceButton{
+	-fx-background-color:green;
+}
